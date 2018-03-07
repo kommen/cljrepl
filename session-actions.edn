@@ -1,0 +1,3 @@
+;; Session Action extensions included in `blob.clj`
+
+{:cljrepl/doc (clojure.repl/doc #unrepl/param :cljrepl/symbol)}
